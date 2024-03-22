@@ -1,22 +1,21 @@
 # MarriageCert
 Marriage certificate in mumbai testnet polygon
 
-since i've been trying to get married legally thanks to putin for starting the war and canceling my wedding
+since i've been trying to get married legally thanks to putin for starting the war and canceling my wedding.
 
 
 Other Attributes:
 Txn Type: 2 (EIP-1559) Nonce: 1 Position In Block: 2
 
 
-Input Data:
 
 
 #	Name	Type	Data
 
-0	spouse1	address	0x299396F933b86d348b827fFe20CD01c2Fdf384Eb
-1	spouse2	address	0xc72aaC45c90D9812e4D678Cdf1cBA3d57FfecbBb
-2	name1	string	Mohammed Mouad Sabor
-3	name2	string	Maryna Chornobil
+0	spouse1	address	0x299396F933b86d348b827fFe20CD01c2Fdf384Eb \n
+1	spouse2	address	0xc72aaC45c90D9812e4D678Cdf1cBA3d57FfecbBb  \n
+2	name1	string	Mohammed Mouad Sabor  \n
+3	name2	string	Maryna Chornobil  \n
 
 
 
